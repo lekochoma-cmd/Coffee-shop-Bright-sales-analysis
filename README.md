@@ -13,3 +13,6 @@ The following steps were followed to execute the project
 -Data processing using Data bricks
 
 ## Summary
+The Coffee shop has generated over R698 812.33 SALES over the past 6 month
+The Hell's Kitchen store has been the highest performing store over the period 
+on our persentation we have included more insights pertaining to the sales decline and how best to improve the figures across the stores.
